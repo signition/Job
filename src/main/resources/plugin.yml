@@ -1,0 +1,15 @@
+﻿name: Job
+version: 1.0
+main: Job
+author: apexuser
+depend: [MythicMobs, Vault, PermissionsEx, ProtocolLib]
+commands:
+   job:
+      usage: /<command>
+      aliases: [직업]
+
+   rankup:
+      usage: /<command>
+      aliases: [랭크업]
+
+
